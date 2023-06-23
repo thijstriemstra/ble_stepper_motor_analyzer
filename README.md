@@ -256,7 +256,7 @@ flash.bat
 6. The device is now ready for installation in the 3D printer or for shipping to your customers.
 
 * **Schematic**: https://github.com/zapta/ble_stepper_motor_analyzer/blob/main/hardware/stepper_monitor.pdf
-* **JLCPCB production files**: https://github.com/zapta/ble_stepper_motor_analyzer/tree/main/hardware/JLCPCB
+* **JLCPCB production files**: https://github.com/zapta/ble_stepper_motor_analyzer/tree/main/kicad/JLCPCB
 
 
 
